@@ -6,4 +6,5 @@
 •	Working with CocoaPods and custom APIs.</br>
 •	Use MVVM (Model-View-ViewModel) Framework.</br>
 •	Advanced UI/UX development to build a clean and visually appearing user interface.</br>
-•	Implementing extended protocols and functions for cleaner code.</br>
+•	Implementing extended protocols and functions for cleaner code.</br
+
