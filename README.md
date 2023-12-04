@@ -16,7 +16,6 @@
        <img src="Screenshots/Screenshots2.jpg" width="300" alt="Screenshot 2">
         <img src="Screenshots/Screenshots3.jpg" width="300" alt="Screenshot 3">
          <img src="Screenshots/Screenshots4.jpg" width="300" alt="Screenshot 4">
-         <img src="Screenshots/Screenshots5.jpg" width="300" alt="Screenshot 5">
 </div>
 
 ## Key Features
