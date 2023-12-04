@@ -12,11 +12,11 @@
 ## Screenshots
 <div style="display: flex; justify-content: space-between;">
     <div style="flex: 1; text-align: center;">
-        <img src="Screenshots/Screenshots1.png" width="300" alt="Screenshot 1">
-       <img src="Screenshots/Screenshots2.png" width="300" alt="Screenshot 2">
-        <img src="Screenshots/Screenshots3.png" width="300" alt="Screenshot 3">
-         <img src="Screenshots/Screenshots4.png" width="300" alt="Screenshot 4">
-         <img src="Screenshots/Screenshots5.png" width="300" alt="Screenshot 5">
+        <img src="Screenshots/Screenshots1.jpg" width="300" alt="Screenshot 1">
+       <img src="Screenshots/Screenshots2.jpg" width="300" alt="Screenshot 2">
+        <img src="Screenshots/Screenshots3.jpg" width="300" alt="Screenshot 3">
+         <img src="Screenshots/Screenshots4.jpg" width="300" alt="Screenshot 4">
+         <img src="Screenshots/Screenshots5.jpg" width="300" alt="Screenshot 5">
 </div>
 
 ## Key Features
